@@ -24,7 +24,7 @@ body {
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
-     opacity: 0.2;
+     opacity: 0.2
      top: 0;
      left: 0;
      bottom: 0;
@@ -34,12 +34,7 @@ body {
 }
 
 
-.project {
-     margin-left: 20px;
-     background-color: #deebf7;
-     padding: 20px;
-     width: 525px;
-}
+
 
 
 
